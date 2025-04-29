@@ -3,8 +3,8 @@
 ## Fase 1: Setup e Limpeza Inicial
 
 ** Carregar CSV, exibir head(), info(), describe().
-2:** Tratar valores nulos (não necessário).
-3:** Verificar consistência categórica (`Attack Type`, `Target Industry`).
+*2:** Tratar valores nulos (não necessário).
+*3:** Verificar consistência categórica (`Attack Type`, `Target Industry`).
 
 ## Fase 2: Engenharia de Atributos
 
