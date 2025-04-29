@@ -94,3 +94,4 @@ Os scripts Python utilizados nesta análise estão na pasta `scripts`. Para exec
 ## 10. Licença
 
 (Nenhuma licença especificada para este projeto)
+
