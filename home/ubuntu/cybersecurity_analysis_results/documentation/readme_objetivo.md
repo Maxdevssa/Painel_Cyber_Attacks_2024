@@ -1,0 +1,4 @@
+### Objetivo do Projeto
+
+O objetivo principal desta análise é examinar os dados de ameaças cibernéticas globais compilados no dataset `Global_Cybersecurity_Threats_2015-2024.csv`, cobrindo o período de 2015 a 2024. A análise busca identificar tendências temporais significativas na ocorrência e no impacto dos incidentes, determinar os tipos de ataques mais prevalentes e prejudiciais, identificar as indústrias mais visadas e avaliar a distribuição geográfica das ameaças. Além disso, a análise explora as vulnerabilidades de segurança mais comuns exploradas e as fontes predominantes de ataques. O resultado final visa fornecer insights valiosos para profissionais de segurança cibernética, ajudando na compreensão do panorama de ameaças e na tomada de decisões estratégicas para mitigação de riscos.
+
